@@ -32,6 +32,7 @@ const app = new Vue({
             {
                 this.total += fruta.cantidad;
             }
+            // try
             return this.total;
         }
     }
